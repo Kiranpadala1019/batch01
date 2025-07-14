@@ -1,0 +1,13 @@
+TY  - BOOK
+AU  - Tang, Jian
+AU  - Xue, Guoliang
+AU  - Zhang, Weiyi
+PY  - 2004/11/25
+SP  - 466 
+EP  -  474
+N2  - Reliability is a major issue in mobile ad hoc routing. Shortest paths are usually used to route packets in mobile ad hoc networks (MANET) However, a shortest path may fail quickly, because some of the wireless links on the shortest path may be broken shortly after the path is established due to mobility of mobile nodes. Rediscovering routes can result in substantial data loss and communication overheads. We consider a MANET in the urban environment. We formulate and study two optimization problems related to reliable routing in MANET. In the minimum cost duration-bounded path (MCDBP) routing problem, we seek a minimum cost source to destination path with duration no less than a given threshold. In the maximum duration cost-bounded path (MDCBP) routing problem, we seek a maximum duration source to destination path with cost no greater than a given constraint. We use a waypoint graph to model the working area of a MANET and present an offline algorithm to compute a duration prediction table for the given waypoint graph. An entry in the duration prediction table contains the guaranteed worst-case duration of the corresponding wireless link. We then present an efficient algorithm which computes a minimum cost duration-bounded path, using the information provided in the duration prediction table. We also present an heuristic algorithm for the MDCBP routing problem. Our simulation results show that our mobility prediction based routing algorithms lead to better network throughput and longer average path duration, compared with the shortest path algorithm.
+SN  - 0-7803-8815-1
+T1  - Reliable routing in mobile ad hoc networks based on mobility prediction
+VL  - 
+DO  - 10.1109/MAHSS.2004.1392187
+ER  - 
